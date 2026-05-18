@@ -4,7 +4,7 @@
 
 
 <h1 align="center">hi there!!</h1>
-<h1 align="center">you can call me Rionn/Nitro</h1>
+<h1 align="center">i'm Rionn/Nitro</h1>
 
  <img width="406" height="416" alt="nepeta-shrug" src="https://github.com/user-attachments/assets/662b0994-e5a6-45c0-8e35-fcc974f37be0" />
 
