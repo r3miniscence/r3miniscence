@@ -25,6 +25,9 @@ _favorite music artists: Lemon Demon, Jack Stauber, My Chemical Romance, Ghost a
 
 - Please interact with me, I don't bite!!
 
+  <img width="1280" height="224" alt="ec840792d121861305f61cad0e81dfc2" src="https://github.com/user-attachments/assets/876b4841-9d47-46f8-a0eb-89bdc9156ba9" />
+
+
   <h1 align="center">Well, that's it.</h1>
   <h1 align="center">вопщем спс за внимание дорогие прихожане (o゜▽゜)o☆</h1>
 
