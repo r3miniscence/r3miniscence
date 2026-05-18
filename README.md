@@ -31,4 +31,4 @@ _favorite music artists: Lemon Demon, Jack Stauber, My Chemical Romance, Ghost a
   <h1 align="center">Well, that's it.</h1>
   <h1 align="center">вопщем спс за внимание дорогие прихожане (o゜▽゜)o☆</h1>
 
- <img width="300" height="200" alt="invader-zim" src="https://github.com/user-attachments/assets/69043b8d-a5ed-4b39-aa7e-88fe40d7f5c6" />
+ <h1 align="center"><img width="300" height="200" alt="invader-zim" src="https://github.com/user-attachments/assets/69043b8d-a5ed-4b39-aa7e-88fe40d7f5c6" /></h1>
